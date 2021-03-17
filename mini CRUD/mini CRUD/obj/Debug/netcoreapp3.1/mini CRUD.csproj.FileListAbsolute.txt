@@ -1,0 +1,32 @@
+D:\project-oop-02\mini CRUD\mini CRUD\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\project-oop-02\mini CRUD\mini CRUD\bin\Debug\netcoreapp3.1\appsettings.json
+D:\project-oop-02\mini CRUD\mini CRUD\bin\Debug\netcoreapp3.1\mini CRUD.exe
+D:\project-oop-02\mini CRUD\mini CRUD\bin\Debug\netcoreapp3.1\mini CRUD.deps.json
+D:\project-oop-02\mini CRUD\mini CRUD\bin\Debug\netcoreapp3.1\mini CRUD.runtimeconfig.json
+D:\project-oop-02\mini CRUD\mini CRUD\bin\Debug\netcoreapp3.1\mini CRUD.runtimeconfig.dev.json
+D:\project-oop-02\mini CRUD\mini CRUD\bin\Debug\netcoreapp3.1\mini CRUD.dll
+D:\project-oop-02\mini CRUD\mini CRUD\bin\Debug\netcoreapp3.1\mini CRUD.pdb
+D:\project-oop-02\mini CRUD\mini CRUD\bin\Debug\netcoreapp3.1\mini CRUD.Views.dll
+D:\project-oop-02\mini CRUD\mini CRUD\bin\Debug\netcoreapp3.1\mini CRUD.Views.pdb
+D:\project-oop-02\mini CRUD\mini CRUD\obj\Debug\netcoreapp3.1\mini CRUD.csprojAssemblyReference.cache
+D:\project-oop-02\mini CRUD\mini CRUD\obj\Debug\netcoreapp3.1\mini CRUD.AssemblyInfoInputs.cache
+D:\project-oop-02\mini CRUD\mini CRUD\obj\Debug\netcoreapp3.1\mini CRUD.AssemblyInfo.cs
+D:\project-oop-02\mini CRUD\mini CRUD\obj\Debug\netcoreapp3.1\mini CRUD.csproj.CoreCompileInputs.cache
+D:\project-oop-02\mini CRUD\mini CRUD\obj\Debug\netcoreapp3.1\mini CRUD.MvcApplicationPartsAssemblyInfo.cache
+D:\project-oop-02\mini CRUD\mini CRUD\obj\Debug\netcoreapp3.1\mini CRUD.RazorAssemblyInfo.cache
+D:\project-oop-02\mini CRUD\mini CRUD\obj\Debug\netcoreapp3.1\mini CRUD.RazorAssemblyInfo.cs
+D:\project-oop-02\mini CRUD\mini CRUD\obj\Debug\netcoreapp3.1\staticwebassets\mini CRUD.StaticWebAssets.Manifest.cache
+D:\project-oop-02\mini CRUD\mini CRUD\obj\Debug\netcoreapp3.1\staticwebassets\mini CRUD.StaticWebAssets.xml
+D:\project-oop-02\mini CRUD\mini CRUD\obj\Debug\netcoreapp3.1\scopedcss\bundle\mini CRUD.styles.css
+D:\project-oop-02\mini CRUD\mini CRUD\obj\Debug\netcoreapp3.1\mini CRUD.TagHelpers.input.cache
+D:\project-oop-02\mini CRUD\mini CRUD\obj\Debug\netcoreapp3.1\mini CRUD.TagHelpers.output.cache
+D:\project-oop-02\mini CRUD\mini CRUD\obj\Debug\netcoreapp3.1\mini CRUD.RazorCoreGenerate.cache
+D:\project-oop-02\mini CRUD\mini CRUD\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\project-oop-02\mini CRUD\mini CRUD\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\project-oop-02\mini CRUD\mini CRUD\obj\Debug\netcoreapp3.1\mini CRUD.RazorTargetAssemblyInfo.cache
+D:\project-oop-02\mini CRUD\mini CRUD\obj\Debug\netcoreapp3.1\mini CRUD.RazorTargetAssemblyInfo.cs
+D:\project-oop-02\mini CRUD\mini CRUD\obj\Debug\netcoreapp3.1\mini CRUD.Views.pdb
+D:\project-oop-02\mini CRUD\mini CRUD\obj\Debug\netcoreapp3.1\mini CRUD.dll
+D:\project-oop-02\mini CRUD\mini CRUD\obj\Debug\netcoreapp3.1\mini CRUD.pdb
+D:\project-oop-02\mini CRUD\mini CRUD\obj\Debug\netcoreapp3.1\mini CRUD.genruntimeconfig.cache
+D:\project-oop-02\mini CRUD\mini CRUD\obj\Debug\netcoreapp3.1\mini CRUD.csproj.CopyComplete
