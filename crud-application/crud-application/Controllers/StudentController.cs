@@ -11,7 +11,7 @@ namespace crud_application.Controllers
     {
         public IActionResult Index()
         {
-            return View();
+            return View(Repository.AllStudents);
         }
   
         // HTTP GET VERSION

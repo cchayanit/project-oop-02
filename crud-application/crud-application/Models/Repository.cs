@@ -8,13 +8,13 @@ namespace crud_application.Models
     public static class Repository
     {
         private static List<Student> allStudents = new List<Student>();
-        public static IEnumerable<Student> AllEmpoyees
+        public static IEnumerable<Student> AllStudents
         {
             get { return allStudents; }
         }
-        public static void Create(Student employee)
+        public static void Create(Student student)
         {
-            allStudents.Add(employee);
+            allStudents.Add(student);
         }
     }
 }

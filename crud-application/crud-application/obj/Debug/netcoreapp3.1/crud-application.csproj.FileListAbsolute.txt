@@ -1,10 +1,3 @@
-D:\project-oop-02\crud-application\crud-application\obj\Debug\netcoreapp3.1\crud-application.csprojAssemblyReference.cache
-D:\project-oop-02\crud-application\crud-application\obj\Debug\netcoreapp3.1\crud-application.AssemblyInfoInputs.cache
-D:\project-oop-02\crud-application\crud-application\obj\Debug\netcoreapp3.1\crud-application.AssemblyInfo.cs
-D:\project-oop-02\crud-application\crud-application\obj\Debug\netcoreapp3.1\crud-application.csproj.CoreCompileInputs.cache
-D:\project-oop-02\crud-application\crud-application\obj\Debug\netcoreapp3.1\crud-application.MvcApplicationPartsAssemblyInfo.cache
-D:\project-oop-02\crud-application\crud-application\obj\Debug\netcoreapp3.1\crud-application.RazorAssemblyInfo.cache
-D:\project-oop-02\crud-application\crud-application\obj\Debug\netcoreapp3.1\crud-application.RazorAssemblyInfo.cs
 D:\project-oop-02\crud-application\crud-application\bin\Debug\netcoreapp3.1\appsettings.Development.json
 D:\project-oop-02\crud-application\crud-application\bin\Debug\netcoreapp3.1\appsettings.json
 D:\project-oop-02\crud-application\crud-application\bin\Debug\netcoreapp3.1\crud-application.exe
@@ -15,6 +8,12 @@ D:\project-oop-02\crud-application\crud-application\bin\Debug\netcoreapp3.1\crud
 D:\project-oop-02\crud-application\crud-application\bin\Debug\netcoreapp3.1\crud-application.pdb
 D:\project-oop-02\crud-application\crud-application\bin\Debug\netcoreapp3.1\crud-application.Views.dll
 D:\project-oop-02\crud-application\crud-application\bin\Debug\netcoreapp3.1\crud-application.Views.pdb
+D:\project-oop-02\crud-application\crud-application\obj\Debug\netcoreapp3.1\crud-application.AssemblyInfoInputs.cache
+D:\project-oop-02\crud-application\crud-application\obj\Debug\netcoreapp3.1\crud-application.AssemblyInfo.cs
+D:\project-oop-02\crud-application\crud-application\obj\Debug\netcoreapp3.1\crud-application.csproj.CoreCompileInputs.cache
+D:\project-oop-02\crud-application\crud-application\obj\Debug\netcoreapp3.1\crud-application.MvcApplicationPartsAssemblyInfo.cache
+D:\project-oop-02\crud-application\crud-application\obj\Debug\netcoreapp3.1\crud-application.RazorAssemblyInfo.cache
+D:\project-oop-02\crud-application\crud-application\obj\Debug\netcoreapp3.1\crud-application.RazorAssemblyInfo.cs
 D:\project-oop-02\crud-application\crud-application\obj\Debug\netcoreapp3.1\staticwebassets\crud-application.StaticWebAssets.Manifest.cache
 D:\project-oop-02\crud-application\crud-application\obj\Debug\netcoreapp3.1\staticwebassets\crud-application.StaticWebAssets.xml
 D:\project-oop-02\crud-application\crud-application\obj\Debug\netcoreapp3.1\scopedcss\bundle\crud-application.styles.css
@@ -27,6 +26,7 @@ D:\project-oop-02\crud-application\crud-application\obj\Debug\netcoreapp3.1\Razo
 D:\project-oop-02\crud-application\crud-application\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
 D:\project-oop-02\crud-application\crud-application\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
 D:\project-oop-02\crud-application\crud-application\obj\Debug\netcoreapp3.1\Razor\Views\Student\Create.cshtml.g.cs
+D:\project-oop-02\crud-application\crud-application\obj\Debug\netcoreapp3.1\Razor\Views\Student\Thanks.cshtml.g.cs
 D:\project-oop-02\crud-application\crud-application\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
 D:\project-oop-02\crud-application\crud-application\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
 D:\project-oop-02\crud-application\crud-application\obj\Debug\netcoreapp3.1\crud-application.RazorTargetAssemblyInfo.cache
@@ -36,4 +36,4 @@ D:\project-oop-02\crud-application\crud-application\obj\Debug\netcoreapp3.1\crud
 D:\project-oop-02\crud-application\crud-application\obj\Debug\netcoreapp3.1\crud-application.pdb
 D:\project-oop-02\crud-application\crud-application\obj\Debug\netcoreapp3.1\crud-application.genruntimeconfig.cache
 D:\project-oop-02\crud-application\crud-application\obj\Debug\netcoreapp3.1\crud-application.csproj.CopyComplete
-D:\project-oop-02\crud-application\crud-application\obj\Debug\netcoreapp3.1\Razor\Views\Student\Thanks.cshtml.g.cs
+D:\project-oop-02\crud-application\crud-application\obj\Debug\netcoreapp3.1\Razor\Views\Student\Index.cshtml.g.cs
