@@ -20,8 +20,10 @@ D:\project-oop-02\crud-application\crud-application\obj\Debug\netcoreapp3.1\scop
 D:\project-oop-02\crud-application\crud-application\obj\Debug\netcoreapp3.1\crud-application.TagHelpers.input.cache
 D:\project-oop-02\crud-application\crud-application\obj\Debug\netcoreapp3.1\crud-application.TagHelpers.output.cache
 D:\project-oop-02\crud-application\crud-application\obj\Debug\netcoreapp3.1\crud-application.RazorCoreGenerate.cache
+D:\project-oop-02\crud-application\crud-application\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+D:\project-oop-02\crud-application\crud-application\obj\Debug\netcoreapp3.1\Razor\Views\Home\Create.cshtml.g.cs
 D:\project-oop-02\crud-application\crud-application\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
-D:\project-oop-02\crud-application\crud-application\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\project-oop-02\crud-application\crud-application\obj\Debug\netcoreapp3.1\Razor\Views\Home\Thanks.cshtml.g.cs
 D:\project-oop-02\crud-application\crud-application\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
 D:\project-oop-02\crud-application\crud-application\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
 D:\project-oop-02\crud-application\crud-application\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
@@ -34,6 +36,3 @@ D:\project-oop-02\crud-application\crud-application\obj\Debug\netcoreapp3.1\crud
 D:\project-oop-02\crud-application\crud-application\obj\Debug\netcoreapp3.1\crud-application.pdb
 D:\project-oop-02\crud-application\crud-application\obj\Debug\netcoreapp3.1\crud-application.genruntimeconfig.cache
 D:\project-oop-02\crud-application\crud-application\obj\Debug\netcoreapp3.1\crud-application.csproj.CopyComplete
-D:\project-oop-02\crud-application\crud-application\obj\Debug\netcoreapp3.1\crud-application.csprojAssemblyReference.cache
-D:\project-oop-02\crud-application\crud-application\obj\Debug\netcoreapp3.1\Razor\Views\Home\Create.cshtml.g.cs
-D:\project-oop-02\crud-application\crud-application\obj\Debug\netcoreapp3.1\Razor\Views\Home\Thanks.cshtml.g.cs

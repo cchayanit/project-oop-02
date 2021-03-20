@@ -23,7 +23,7 @@ namespace crud_application.Controllers
             return View(Repository.AllStudents);
         }
 
-        public IActionResult Privacy()
+        public IActionResult About()
         {
             return View();
         }
