@@ -24,6 +24,7 @@ D:\project-oop-02\crud-application\crud-application\obj\Debug\netcoreapp3.1\Razo
 D:\project-oop-02\crud-application\crud-application\obj\Debug\netcoreapp3.1\Razor\Views\Home\Create.cshtml.g.cs
 D:\project-oop-02\crud-application\crud-application\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
 D:\project-oop-02\crud-application\crud-application\obj\Debug\netcoreapp3.1\Razor\Views\Home\Thanks.cshtml.g.cs
+D:\project-oop-02\crud-application\crud-application\obj\Debug\netcoreapp3.1\Razor\Views\Home\Update.cshtml.g.cs
 D:\project-oop-02\crud-application\crud-application\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
 D:\project-oop-02\crud-application\crud-application\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
 D:\project-oop-02\crud-application\crud-application\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs

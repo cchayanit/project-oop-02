@@ -18,13 +18,20 @@
     <tbody>
         @foreach (Student e in Model)
         {
-            <tr>
-                <td>@e.Name</td>
-                <td>@e.Age</td>
-                <td>@e.Year</td>
-                <td>@e.Major</td>
-                <td>@e.Sex</td>
-            </tr>
+        <tr>
+            <td>@e.Name</td>
+            <td>@e.Age</td>
+            <td>@e.Year</td>
+            <td>@e.Major</td>
+            <td>@e.Sex</td>
+            <td><a asp-action="Update" asp-route-empname="@e.Name">Update</a></td>
+            <td>
+                <form asp-action="Delete" method="post">
+                    <input type="hidden" name="empname" value="@e.Name" />
+                    <button type="submit">Delete</button>
+                </form>
+            </td>
+        </tr>
         }
     </tbody>
 </table>
