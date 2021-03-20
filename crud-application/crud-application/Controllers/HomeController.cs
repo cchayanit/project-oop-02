@@ -20,12 +20,26 @@ namespace crud_application.Controllers
 
         public IActionResult Index()
         {
-            return View();
+            return View(Repository.AllStudents);
         }
 
         public IActionResult Privacy()
         {
             return View();
+        }
+
+        // HTTP GET VERSION
+        public IActionResult Create()
+        {
+            return View();
+        }
+
+        // HTTP POST VERSION  
+        [HttpPost]
+        public IActionResult Create(Student student)
+        {
+            Repository.Create(student);
+            return View("Thanks", student);
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
