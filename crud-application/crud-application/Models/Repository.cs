@@ -8,7 +8,7 @@ namespace crud_application.Models
 {
     public static class Repository
     {
-        private static List<Student> allStudents = new List<Student>();
+        private static readonly List<Student> allStudents = new List<Student>();
         public static IEnumerable<Student> AllStudents
         {
             get { return allStudents; }

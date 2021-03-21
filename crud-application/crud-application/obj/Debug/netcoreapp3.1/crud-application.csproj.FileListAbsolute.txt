@@ -37,3 +37,4 @@ D:\project-oop-02\crud-application\crud-application\obj\Debug\netcoreapp3.1\crud
 D:\project-oop-02\crud-application\crud-application\obj\Debug\netcoreapp3.1\crud-application.pdb
 D:\project-oop-02\crud-application\crud-application\obj\Debug\netcoreapp3.1\crud-application.genruntimeconfig.cache
 D:\project-oop-02\crud-application\crud-application\obj\Debug\netcoreapp3.1\crud-application.csproj.CopyComplete
+D:\project-oop-02\crud-application\crud-application\obj\Debug\netcoreapp3.1\crud-application.csprojAssemblyReference.cache
