@@ -7,6 +7,11 @@ a.navbar-brand {
   word-break: break-all;
 }
 
+form p .input-validation-error {
+    border: 1px solid Red;
+    background-color: #fee;
+}
+
 /* Provide sufficient contrast against white background */
 a {
   color: #0366d6;
