@@ -51,7 +51,7 @@ namespace crud_application.Controllers
                 Repository.AllStudents.Where(e => e.Name == empname).FirstOrDefault().Age = student.Age;
                 Repository.AllStudents.Where(e => e.Name == empname).FirstOrDefault().Year = student.Year;
                 Repository.AllStudents.Where(e => e.Name == empname).FirstOrDefault().Major = student.Major;
-                Repository.AllStudents.Where(e => e.Name == empname).FirstOrDefault().Sex = student.Sex;
+                Repository.AllStudents.Where(e => e.Name == empname).FirstOrDefault().Gender = student.Gender;
                 Repository.AllStudents.Where(e => e.Name == empname).FirstOrDefault().Subject = student.Subject;
 
                 return RedirectToAction("Index");

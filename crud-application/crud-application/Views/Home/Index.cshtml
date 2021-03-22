@@ -14,7 +14,7 @@
             <th th scope="col">Age</th>
             <th th scope="col">Year</th>
             <th th scope="col">Major</th>
-            <th th scope="col">Sex</th>
+            <th th scope="col">Gender</th>
             <th th scope="col"></th>
             <th th scope="col"></th>
         </tr>
@@ -28,7 +28,7 @@
             <td>@e.Age</td>
             <td>@e.Year</td>
             <td>@e.Major</td>
-            <td>@e.Sex</td>
+            <td>@e.Gender</td>
             <td><a asp-action="Update" asp-route-empname="@e.Name">Update</a></td>
             <td>
                 <form asp-action="Delete" method="post">

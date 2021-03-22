@@ -19,6 +19,6 @@ namespace crud_application.Models
 
         public string Major { get; set; }
 
-        public Char Sex { get; set; }
+        public Char Gender { get; set; }
     }
 }
